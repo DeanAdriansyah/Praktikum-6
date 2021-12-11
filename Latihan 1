@@ -1,3 +1,4 @@
+# Ubahlah kode dibawah ini menjadi fungsi menggunakan lambda
 import math
 
 def a(x):
@@ -11,3 +12,15 @@ def c(*args):
  
 def d(s):
  return "".join(set(s))
+
+
+# Fungsi Lambda
+import math
+
+(lambda a(x): x**2)
+
+(lambda b(x, y): math.sqrt(x**2 + y**2)
+
+(lambda c(*args): sum(args)/len(args))
+
+(lambda d(s): "".join(set(s)))
